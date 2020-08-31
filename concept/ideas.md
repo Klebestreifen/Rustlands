@@ -1,6 +1,6 @@
 # Ideas
 
-Here we collect ideas, concept and mechanics of the modpack.
+Here we collect ideas, concepts and mechanics of the modpack.
 
 ## Background Story
 
